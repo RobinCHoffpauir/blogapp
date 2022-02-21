@@ -1,1 +1,3 @@
-# blogapp
+-This is a flask based python blog,
+-Using flask as the main framework of use
+-Will also storing all packages needed to run app in <code>Pipfile</code>

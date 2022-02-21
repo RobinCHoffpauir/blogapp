@@ -5,7 +5,8 @@ name = "pypi"
 
 [packages]
 flask = "*"
-
+sqlalchemy = "*"
+matplotlib = "pyplot"
 [dev-packages]
 
 [requires]
