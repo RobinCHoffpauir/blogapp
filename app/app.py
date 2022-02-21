@@ -9,7 +9,7 @@ def index():
   #### Return a rendered index.html file
   return render_template('index.html')
 
-@app.route("/blog/<int:id>")
+@app.route("/blog/")
 def blog(id):
     
   #### Return a rendered fried_egg.html file
