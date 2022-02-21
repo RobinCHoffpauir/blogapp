@@ -7,6 +7,11 @@ name = "pypi"
 flask = "*"
 sqlalchemy = "*"
 matplotlib = "pyplot"
+pandas = "*"
+seaborn = "*"
+docker = "*"
+docker-compose = "*"
+
 [dev-packages]
 
 [requires]
